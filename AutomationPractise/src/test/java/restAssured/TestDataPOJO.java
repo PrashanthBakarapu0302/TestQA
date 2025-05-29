@@ -10,7 +10,7 @@ import org.json.JSONObject;
 import org.testng.annotations.Test;
 
 public class TestDataPOJO {
-	
+	//Adding code for mergeconflict
 	@Test
 	public void TestUsingPOJO()
 	{
