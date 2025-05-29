@@ -11,6 +11,7 @@ import org.testng.annotations.Test;
 
 public class TestDataPOJO {
 	
+	//Testing a new feature
 	@Test
 	public void TestUsingPOJO()
 	{
