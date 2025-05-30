@@ -1,7 +1,7 @@
 package com.Abstarct;
 
 public abstract class AbstractTest {
-
+//delete the code QA LEAD
 	public abstract void m1();
 //ADDING ONE LINE AS MANUAL TESTING
 	static void m2()
