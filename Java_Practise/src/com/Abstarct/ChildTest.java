@@ -6,6 +6,7 @@ public class ChildTest extends AbstractTest {
 		// TODO Auto-generated method stub
 		
      AbstractTest.m2();
+     //testing tools
 		
 		ChildTest obj= new ChildTest();
 		obj.m1();
