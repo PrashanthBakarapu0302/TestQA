@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 public class LoginTest {
 	
-	
+	//direct modify in the master
 WebDriver driver;	
 	@BeforeTest
 	public void LoginToApplication()
