@@ -10,7 +10,7 @@ public class ChildTest extends AbstractTest {
 		
 		ChildTest obj= new ChildTest();
 		obj.m1();
-		
+		//yeteuwtry
 		
 		
 		
