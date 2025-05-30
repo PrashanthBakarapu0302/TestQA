@@ -7,6 +7,8 @@ public abstract class AbstractTest {
 	static void m2()
 	{
 		System.out.println("hello non abstartct");
+		
+		System.out.println("hello yrtr abstartct");
 	}
 	
 	public static void main(String[] args) {
