@@ -1,0 +1,26 @@
+package basic;
+
+import java.util.Random;
+
+public class StaticTest {
+
+	public static int number;
+	
+	public static  void m1()
+	{
+		System.out.println("static methods");
+	}
+	
+	
+	public static  void m2()
+	{
+		System.out.println("static methods 2nd");
+	}
+	public static void main(String[] args) {
+		
+		
+		
+		
+	}
+
+}
