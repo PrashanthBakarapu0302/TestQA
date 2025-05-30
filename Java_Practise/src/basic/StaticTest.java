@@ -2,6 +2,7 @@ package basic;
 
 import java.util.Random;
 
+//adding comments for manual QA
 public class StaticTest {
 
 	public static int number;
