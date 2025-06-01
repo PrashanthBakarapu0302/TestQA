@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 public class Authentication {
 
 	@Test 
-	
+	//one
 	//Base Authentocation
 	public void Base()
 	{
@@ -26,7 +26,7 @@ public class Authentication {
 	public void  BarerTokenAuthentication()
 	{
 		String Barrertoken="hdueundie_eneidiee";
-		Faker fake= new Faker();
+		
 		given().headers("Authorization","Barere" +Barrertoken)
 		
 		.when()
