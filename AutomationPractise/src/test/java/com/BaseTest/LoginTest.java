@@ -9,7 +9,7 @@ import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-
+//import all into git 
 public class LoginTest {
 	
 	//direct modify in the master
