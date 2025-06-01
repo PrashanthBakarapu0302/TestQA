@@ -1,5 +1,5 @@
 package com.Abstarct;
-
+//hello master
 public abstract class AbstractTest {
 //delete the code QA LEAD
 	public abstract void m1();
