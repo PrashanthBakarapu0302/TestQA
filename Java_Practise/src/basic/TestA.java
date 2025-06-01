@@ -5,6 +5,7 @@ public class TestA {
 	static 
 	{
 		System.out.println("static block");
+		//ading one code to master
 	}
 
 	public static void main(String[] args) {
