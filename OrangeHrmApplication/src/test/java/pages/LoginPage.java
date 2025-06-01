@@ -77,6 +77,7 @@ public  LoginPage(WebDriver driver)
  System.out.println(driver.getTitle());
 Thread.sleep(5000);
 	}
+	//QA LEad is woorking  now
 	
 	public void Clicking_on_Admin_Button()
 	{
