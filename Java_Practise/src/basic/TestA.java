@@ -6,6 +6,7 @@ public class TestA {
 	{
 		System.out.println("static block");
 		//ading one code to master
+		//ading two code
 	}
 
 	public static void main(String[] args) {
