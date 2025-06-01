@@ -10,6 +10,7 @@ public class Test {
 		
 		StaticTest.m1();
 		StaticTest.m2();
+		//master is updating
 		
 	}
 
