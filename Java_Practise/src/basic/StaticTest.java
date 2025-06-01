@@ -17,6 +17,7 @@ public class StaticTest {
 	public static  void m2()
 	{
 		System.out.println("static methods 2nd");
+		//bye this is last
 	}
 	public static void main(String[] args) {
 		
