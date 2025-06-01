@@ -1,7 +1,7 @@
 package com.Abstarct;
 
 public class ChildTest extends AbstractTest {
-
+//adding child QA
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
