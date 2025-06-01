@@ -7,7 +7,7 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		System.out.println(StaticTest.number=10);
-		
+		//heloeierioe
 		StaticTest.m1();
 		StaticTest.m2();
 		//master is updating
