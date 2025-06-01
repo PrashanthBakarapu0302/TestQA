@@ -4,7 +4,7 @@ import java.io.FileInputStream;
 import java.util.Properties;
 
 public class ConfigReader {
-	
+	//master
 	static Properties prop;
 	
 public static String getProperty(String key)
