@@ -8,6 +8,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class JsonUtil {
 	
+	//master is updating
+	
 	//serialize POJO into JSON String
 	
 	private static final ObjectMapper mapper= new ObjectMapper();
