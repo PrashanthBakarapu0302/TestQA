@@ -15,6 +15,7 @@ public class CreatedUserTest {
 	
 
 	@Test
+	//rekha
 	public void UserTest()
 	{
 		RestAssured.baseURI ="https://reqres.in/api";
